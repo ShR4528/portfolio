@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c9eaa003.css",
-    "main.js": "/portfolio/static/js/main.059dcc71.js",
+    "main.css": "/portfolio/static/css/main.0ec4bd66.css",
+    "main.js": "/portfolio/static/js/main.74be5c91.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bg-1.jpg": "/portfolio/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
     "static/media/Poppins-Thin.ttf": "/portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
@@ -15,19 +15,21 @@
     "static/media/mike.png": "/portfolio/static/media/mike.8af8bcf1a1892426bb8d.png",
     "static/media/mailz.jpeg": "/portfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
     "static/media/man.png": "/portfolio/static/media/man.bd25aa3831d20f3de330.png",
-    "static/media/bg.jpg": "/portfolio/static/media/bg.e0bc83fac7c88175ee71.jpg",
+    "static/media/10.jpg": "/portfolio/static/media/10.f31c9597d5c5adf3ee52.jpg",
+    "static/media/0.jpg": "/portfolio/static/media/0.f9f6a9f860e20e28af95.jpg",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.d580cd375921d13ae60d.jpg",
     "index.html": "/portfolio/index.html",
     "static/media/programming-skills.svg": "/portfolio/static/media/programming-skills.d19983a9bee884277ffa.svg",
     "static/media/projects.svg": "/portfolio/static/media/projects.2b352a52b0588dab62f5.svg",
     "static/media/interests.svg": "/portfolio/static/media/interests.809890a3e4fb0938f61b.svg",
     "static/media/education.svg": "/portfolio/static/media/education.10cfa28a40119ebd70cf.svg",
     "static/media/work-history.svg": "/portfolio/static/media/work-history.a566475dedb99dea4bb8.svg",
-    "main.c9eaa003.css.map": "/portfolio/static/css/main.c9eaa003.css.map",
-    "main.059dcc71.js.map": "/portfolio/static/js/main.059dcc71.js.map",
+    "main.0ec4bd66.css.map": "/portfolio/static/css/main.0ec4bd66.css.map",
+    "main.74be5c91.js.map": "/portfolio/static/js/main.74be5c91.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9eaa003.css",
-    "static/js/main.059dcc71.js"
+    "static/css/main.0ec4bd66.css",
+    "static/js/main.74be5c91.js"
   ]
 }
