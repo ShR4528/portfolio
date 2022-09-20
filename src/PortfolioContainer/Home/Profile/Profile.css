@@ -56,7 +56,7 @@
 .profile-picture-background {
   height: 92%;
   width: 92%;
-  background-image: url("../../../assets/Home/945.jpg");
+  background-image: url("../../../assets/Home/0.jpg");
   background-size: cover;
   border-radius: 50%;
   background-repeat: no-repeat;
@@ -120,11 +120,20 @@
     text-align: center;
   }
 }
+@media only screen and (max-width: 540px) {
+  .profile-picture {
+    display: none;
+  }
+  .profile-picture-background {
+    display: none;
+  }
+} 
 @media screen and(max-width:375px) {
   .profile-picture {
-    height: 275px;
-    width: 275px;
-    margin-top: -90px;
+    display: none;
+  }
+  .profile-picture-background {
+    display: none;
   }
   .profile-details {
     width: 90%;

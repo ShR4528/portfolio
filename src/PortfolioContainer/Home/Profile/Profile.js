@@ -10,11 +10,8 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="http://www.facebook.com">
-                <i className="fa fa-facebook-square"></i>
-              </a>
-              <a href="http://www.google.com">
-                <i className="fa fa-google-plus-square"></i>
+              <a href="https://github.com/ShR4528">
+                <i className="fa fa-github"></i>
               </a>
               <a href="http://www.google.com">
                 <i className="fa fa-youtube"></i>
@@ -56,9 +53,10 @@ export default function Profile() {
             <button
               className="btn primary-btn"
               onClick={() => ScrollService.scrollHandler.scrollToHireMe()}
-            >Hire Me
+            >
+              Hire Me
             </button>
-            <a href="Resume.pdf" download="Resume.pdf">
+            <a href="Front end.pdf" download="Front end.pdf">
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
           </div>

@@ -18,7 +18,7 @@ export default function AboutMe(props) {
       "Full stack web and mobile developer with background knowledge of MERN stacks with redux, along with a knack of building applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.",
     highlights: {
       bullets: [
-        "Full Stack web and mobile development",
+        "Web development",
         "Interactive Front End as per the design",
         "React and React Native",
         "Redux for State Mnanagement",
@@ -56,14 +56,9 @@ export default function AboutMe(props) {
               {renderHighlight()}
             </div>
             <div className="about-me-options">
-              <button
-                className="btn primary-btn"
-                onClick={() => ScrollService.scrollHandler.scrollToHireMe()}
-              >
-                Hire Me
-              </button>
+            
               
-              <a href="Resume.pdf" download="Resume.pdf">
+              <a href="Front end.pdf" download="Front end.pdf">
                 <button className="btn highlighted-btn">Get Resume</button>
               </a>
             </div>
