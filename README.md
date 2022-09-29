@@ -4,8 +4,7 @@
 
 
 ## My personal portfolio site created on react using scrolling service, animation, links to social networks.
-
-The portfolio contains my resume and basic skills as part of the front-end development course.
+## The portfolio contains my resume and basic skills as part of the front-end development course.
 
 ### Front-end library: React
 ### CSS framework: React-bootstrap
