@@ -4,13 +4,13 @@
 
 
 
-## Front-end library: React
-## CSS framework: React-bootstrap
-## Scroll Service
-## Animations
-## Rxjs
+### Front-end library: React
+### CSS framework: React-bootstrap
+### Scroll Service
+### Animations
+### Rxjs
 
-## Available Scripts
+
 
 
 
